@@ -1,9 +1,9 @@
 # Hi there, I'm Navin! 👋
 
 ## About Me
-- 👀 I'm interested in **Full-stack development, E-commerce solutions, and Open source contributions**
+- 👀 I'm interested in **Full-stack development, E-commerce solutions (Shopify, WooCommerce), and Open source contributions**
 - 🌱 I'm currently learning **Advanced DevOps practices and cloud architecture**
-- 💞️ I'm looking to collaborate on **Open source projects, Web applications, and Shopify development**
+- 💞️ I'm looking to collaborate on **Open source projects, Web applications, Shopify development, and WordPress/WooCommerce solutions**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/navinkumar-m/)**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I can debug code faster with a cup of coffee in hand than most people can with a full IDE setup!**
@@ -27,6 +27,8 @@
 
 ### E-commerce & CMS
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -41,6 +43,8 @@
 ## 🚀 What I'm Working On
 - 🛒 Building scalable Shopify applications and custom themes
 - 🌐 Developing full-stack web applications with React and Laravel
+- 🔧 Creating custom WordPress themes and WooCommerce plugins
+- 🛍️ Building e-commerce solutions across multiple platforms (Shopify, WooCommerce)
 - 🔧 Contributing to open source projects in the JavaScript and PHP ecosystem
 - 📚 Exploring modern DevOps practices and cloud deployment strategies
 
