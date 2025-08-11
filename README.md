@@ -57,7 +57,7 @@
 💬 Feel free to reach out if you want to collaborate on exciting projects or discuss web development!
 
 ---
-*This README was last updated on [Date]*
+*This README was last updated on 11/08/2025*
 
 <!---
 navinnm/navinnm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
